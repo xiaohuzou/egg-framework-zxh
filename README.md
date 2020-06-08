@@ -22,5 +22,5 @@ require('egg-framework-zxh').startCluster({
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/eggjs/egg/issues).
+Please open an issue [here](https://github.com/xiaohuzou/egg-framework-zxh/issues).
 

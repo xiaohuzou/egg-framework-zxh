@@ -1,6 +1,6 @@
 {
   "name": "egg-framework-zxh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "dependencies": {
     "egg": "^2.3.0"
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/xiaohuzou/egg-framework-zxh.git"
   },
   "keywords": [
     "egg",
@@ -49,5 +49,9 @@
     "coverage",
     "dist"
   ],
+  "bugs": {
+    "url": "https://github.com/xiaohuzou/egg-framework-zxh/issues"
+  },
+  "homepage": "https://github.com/xiaohuzou/egg-framework-zxh#readme",
   "license": "MIT"
 }
